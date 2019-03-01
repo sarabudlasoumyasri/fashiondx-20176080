@@ -1,0 +1,28 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.4",
+    "date-and-time": "^0.6.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-flash": "0.0.2",
+    "express-mongo-db": "^2.0.4",
+    "express-session": "^1.15.6",
+    "express-validator": "^5.3.1",
+    "method-override": "^3.0.0",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.23",
+    "mongodb": "^3.1.13",
+    "node-datetime": "^2.1.2",
+    "npm": "^6.8.0"
+  }
+}
